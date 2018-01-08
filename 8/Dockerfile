@@ -1,4 +1,4 @@
-# Setup develoment environment for Node.js
+# Setup development environment for Node.js
 FROM node:carbon
 LABEL maintainer="qinfengling <fengling.qin@gmail.com>"
 
